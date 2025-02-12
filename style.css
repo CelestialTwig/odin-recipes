@@ -1,0 +1,32 @@
+.main-background {
+    background: lightgray;
+}
+
+
+
+
+.title {
+    box-sizing: border-box;
+    text-align: center;
+    padding: 40px;
+    background: cyan;
+    width: 750px;
+    outline: 2px solid gray;
+    margin: auto;
+    border-radius: 25px;
+}
+
+.lasagna {
+    display: block;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 40px;
+    background: cyan;
+    width: 150px;
+    outline: 2px solid gray;
+    margin-right: 800px;
+    margin-left: 200px;
+    margin-top: 70px;
+    border-radius: 25px;
+    font-weight: bold;
+}
