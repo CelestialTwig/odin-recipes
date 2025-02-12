@@ -17,16 +17,40 @@
 }
 
 .lasagna {
-    display: block;
+    display: inline-block;
     box-sizing: border-box;
     text-align: center;
     padding: 40px;
     background: cyan;
     width: 150px;
     outline: 2px solid gray;
-    margin-right: 800px;
-    margin-left: 200px;
+    margin-right: 50px;
     margin-top: 70px;
+    border-radius: 25px;
+    font-weight: bold;
+}
+
+.pasta {
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 40px;
+    background: cyan;
+    width: 150px;
+    outline: 2px solid gray;
+    border-radius: 25px;
+    font-weight: bold;
+    margin-right: 50px;
+}
+
+.pizza {
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 40px;
+    background: cyan;
+    width: 150px;
+    outline: 2px solid gray;
     border-radius: 25px;
     font-weight: bold;
 }
